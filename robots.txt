@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://aghakishiyeva.github.io/gunel-aghakishiyeva-portfolio/sitemap.xml

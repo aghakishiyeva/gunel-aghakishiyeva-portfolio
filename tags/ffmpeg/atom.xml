@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Gunel Aghakishiyeva - FFMPEG</title>
+    <subtitle>Personal Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aghakishiyeva.github.io/gunel-aghakishiyeva-portfolio/tags/ffmpeg/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aghakishiyeva.github.io/gunel-aghakishiyeva-portfolio/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-11-03T11:35:41.496+00:00</updated>
+    <id>https://aghakishiyeva.github.io/gunel-aghakishiyeva-portfolio/tags/ffmpeg/atom.xml</id>
+    <entry xml:lang="en">
+        <title>AttentionTune</title>
+        <published>2023-11-03T11:35:41.496+00:00</published>
+        <updated>2023-11-03T11:35:41.496+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aghakishiyeva.github.io/gunel-aghakishiyeva-portfolio/projects/attentiontune/"/>
+        <id>https://aghakishiyeva.github.io/gunel-aghakishiyeva-portfolio/projects/attentiontune/</id>
+        
+        <content type="html" xml:base="https://aghakishiyeva.github.io/gunel-aghakishiyeva-portfolio/projects/attentiontune/">&lt;h3 id=&quot;intro&quot;&gt;Intro&lt;&#x2F;h3&gt;
+&lt;p&gt;More details will be coming soon.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
