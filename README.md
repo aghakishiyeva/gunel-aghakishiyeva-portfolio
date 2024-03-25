@@ -1,4 +1,4 @@
-# Building and Hosting Personal Portfolio using Zola and Amazon S3
+# Building and Hosting Portfolio using Zola and Amazon S3
 
 This portfolio website is built using <b>Zola</b> and hosted on <b>Amazon S3</b>.
 
