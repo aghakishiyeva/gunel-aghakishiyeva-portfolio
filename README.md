@@ -47,7 +47,7 @@ As a first step, you need to do installation and setup locally. For this purpose
    
 7. Uncheck everything under "Block public access" in bucket settings (via <b>Permissions</b> tab).
 
-8. Go to bucket <b>Properties</b> and scroll down to "Static website hosting". You'll find a link similar to `http://gunelsportfolio.s3-website-us-east-1.amazonaws.com`.
+8. Go to bucket <b>Properties</b> again and scroll down to "Static website hosting". You'll find a link similar to `http://gunelsportfolio.s3-website-us-east-1.amazonaws.com`.
 
 9. Your website is now hosted and accessible via the provided link.
 
