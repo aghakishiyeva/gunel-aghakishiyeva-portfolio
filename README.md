@@ -1,5 +1,7 @@
 # Building and Hosting Portfolio using Zola and Amazon S3
 
+<i><b>Live Demo: http://gunelsportfolio.s3-website-us-east-1.amazonaws.com</b></i>
+
 This portfolio website is built using <b>Zola</b> and hosted on <b>Amazon S3</b>.
 
 ![image](https://github.com/aghakishiyeva/gunel-aghakishiyeva-portfolio/assets/78721466/8a75c96c-110e-4b48-b778-0464fbd2b168)
