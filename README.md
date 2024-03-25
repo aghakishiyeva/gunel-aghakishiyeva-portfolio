@@ -7,11 +7,11 @@ This portfolio website is built using <b>Zola</b> and hosted on <b>Amazon S3</b>
 [Zola](https://www.getzola.org/) is a static site generator written in Rust programming language, providing fast rendering times and flexibility for website development.
 
 ## Installation and Setup
-For installation and setup instructions, please refer to the [Resume Theme on Zola Website](https://www.getzola.org/themes/resume/).
+As a first step, you need to do installation and setup locally. For this purpose, please refer to the [Resume Theme on Zola Website](https://www.getzola.org/themes/resume/).
 
 ## Deployment Steps
 
-1. After building and checking your website locally using `zola serve`, run the following command to generate the production files:
+1. After building and hosting your website locally using `zola serve`, run the following command to generate the production files:
 
     ```bash
     zola build
