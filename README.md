@@ -6,8 +6,6 @@ This portfolio website is built using <b>Zola</b> and hosted on <b>Amazon S3</b>
 
 [Zola](https://www.getzola.org/) is a static site generator written in Rust programming language, providing fast rendering times and flexibility for website development.
 
-<br><br>
-
 ## Installation and Setup
 For installation and setup instructions, please refer to the [Resume Theme on Zola Website](https://www.getzola.org/themes/resume/).
 
